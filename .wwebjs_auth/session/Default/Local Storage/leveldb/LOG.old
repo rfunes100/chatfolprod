@@ -1,0 +1,48 @@
+2023/05/17-08:10:53.585 28d4 Reusing MANIFEST E:\inetpub\chatfolbas-main\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2023/05/17-08:10:53.585 28d4 Recovering log #74
+2023/05/17-08:10:53.586 28d4 Reusing old log E:\inetpub\chatfolbas-main\.wwebjs_auth\session\Default\Local Storage\leveldb/000074.log 
+2023/05/17-12:39:18.593 22d0 Level-0 table #78: started
+2023/05/17-12:39:18.596 22d0 Level-0 table #78: 11506 bytes OK
+2023/05/17-12:39:18.597 22d0 Delete type=0 #74
+2023/05/19-19:34:17.625 2334 Level-0 table #80: started
+2023/05/19-19:34:17.629 2334 Level-0 table #80: 9916 bytes OK
+2023/05/19-19:34:17.633 2334 Delete type=0 #77
+2023/05/19-19:34:17.633 2334 Compacting 4@0 + 1@1 files
+2023/05/19-19:34:17.641 2334 Generated table #81@0: 118 keys, 5478 bytes
+2023/05/19-19:34:17.643 2334 Compacted 4@0 + 1@1 files => 5478 bytes
+2023/05/19-19:34:17.643 2334 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/19-19:34:17.644 2334 Delete type=2 #69
+2023/05/19-19:34:17.644 2334 Delete type=2 #72
+2023/05/19-19:34:17.644 2334 Delete type=2 #75
+2023/05/19-19:34:17.644 2334 Delete type=2 #78
+2023/05/19-19:34:17.644 2334 Delete type=2 #80
+2023/05/22-02:27:36.224 38a4 Level-0 table #83: started
+2023/05/22-02:27:36.231 38a4 Level-0 table #83: 10062 bytes OK
+2023/05/22-02:27:36.234 38a4 Delete type=0 #79
+2023/05/24-09:50:23.787 1cd0 Level-0 table #85: started
+2023/05/24-09:50:23.794 1cd0 Level-0 table #85: 9926 bytes OK
+2023/05/24-09:50:23.796 1cd0 Delete type=0 #82
+2023/05/26-16:53:08.274 594 Level-0 table #87: started
+2023/05/26-16:53:08.277 594 Level-0 table #87: 9893 bytes OK
+2023/05/26-16:53:08.279 594 Delete type=0 #84
+2023/05/29-00:05:58.528 d7c Level-0 table #89: started
+2023/05/29-00:05:58.532 d7c Level-0 table #89: 9877 bytes OK
+2023/05/29-00:05:58.536 d7c Delete type=0 #86
+2023/05/29-00:05:58.536 d7c Compacting 4@0 + 1@1 files
+2023/05/29-00:05:58.543 d7c Generated table #90@0: 118 keys, 5491 bytes
+2023/05/29-00:05:58.543 d7c Compacted 4@0 + 1@1 files => 5491 bytes
+2023/05/29-00:05:58.544 d7c compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/29-00:05:58.544 d7c Delete type=2 #81
+2023/05/29-00:05:58.544 d7c Delete type=2 #83
+2023/05/29-00:05:58.544 d7c Delete type=2 #85
+2023/05/29-00:05:58.544 d7c Delete type=2 #87
+2023/05/29-00:05:58.544 d7c Delete type=2 #89
+2023/05/31-07:08:37.910 814 Level-0 table #92: started
+2023/05/31-07:08:37.913 814 Level-0 table #92: 9923 bytes OK
+2023/05/31-07:08:37.915 814 Delete type=0 #88
+2023/06/02-14:01:14.971 3a8 Level-0 table #94: started
+2023/06/02-14:01:14.975 3a8 Level-0 table #94: 9885 bytes OK
+2023/06/02-14:01:14.978 3a8 Delete type=0 #91
+2023/06/04-20:04:06.317 3684 Level-0 table #96: started
+2023/06/04-20:04:06.320 3684 Level-0 table #96: 9920 bytes OK
+2023/06/04-20:04:06.323 3684 Delete type=0 #93
